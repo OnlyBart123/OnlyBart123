@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-Hi! I'm Bartosz, a final-year Computer Science engineering student at Akademia Nauk Stosowanych in Elbląg.  
-I'm passionate about backend and full-stack development, especially using technologies like **C#**, **.NET**, **Laravel**, and **React**.  
-I'm constantly learning, building, and looking for opportunities to grow in the IT world 🌍.
+Hi! I'm Bartek, a Computer Science Engineer graduated from Akademia Nauk Stosowanych in Elbląg.
+I'm passionate about software and backend development, working primarily with C#, .NET, SQL / PostgreSQL, and modern web & cloud technologies.
+I'm constantly building, learning, and looking for exciting opportunities to solve real-world problems in the IT industry 🌍.
 
 ---
 
