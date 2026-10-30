@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello, I'm Bartosz!</h1>
 
 <p align="center">
-  💻 Computer Science student · 🎓 6th semester · 🛠️ Future Software Developer
+  💻 Computer Science Engineer · 🚀 Junior Software & Automation Engineer
 </p>
 
 <p align="center">
-  📍 Elbląg, Poland · 🎯 Specializing in <strong>Database Programming</strong> & <strong>User Software Development</strong>
+  📍 Gdańsk, Poland · 🎯 Specializing in <strong>Database Programming</strong> & <strong>User Software Development</strong>
 </p>
 
 ---
