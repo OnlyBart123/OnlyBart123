@@ -49,9 +49,9 @@ I'm constantly building, learning, and looking for exciting opportunities to sol
 
 ## 🌱 Current Goals
 
-- 🎓 Complete my engineering degree  
-- ⚙️ Improve my backend development skills with Laravel and .NET  
-- 🌐 Build and deploy full-stack applications  
+- ⚙️ Improve my software and backend development skills in **Java**, **.NET**, and **Laravel**  
+- 💼 Land my first commercial role as a Junior Software / Backend Developer  
+- 🌐 Build and deploy practical desktop and full-stack applications  
 - 🧠 Learn something new every day!
 
 
