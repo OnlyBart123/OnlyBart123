@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 Hi! I'm Bartek, a Computer Science Engineer graduated from Akademia Nauk Stosowanych in Elbląg.
-I'm passionate about software and backend development, working primarily with C#, .NET, SQL / PostgreSQL, and modern web & cloud technologies.
+I'm passionate about software and backend development, working primarily with C#, .NET, Java, SQL / PostgreSQL, and modern web & cloud technologies.
 I'm constantly building, learning, and looking for exciting opportunities to solve real-world problems in the IT industry 🌍.
 
 ---
